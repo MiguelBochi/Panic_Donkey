@@ -103,3 +103,7 @@ Criar uma aplicação que auxilie na retenção de dados referente aos animais, 
 - **RNF - Consulta simultânea :** O sistema não pode permitir o agendamento de duas consultas com o mesmo funcionário ao mesmo tempo.
 
 - **RNF005 - Registro do atendimento:** O sistema não deve permitir o resgistro do atendimento antes da consulta.
+
+# Diagrama de Caso de Uso
+
+![Ciclo da Venda](docs/Diagrama.png)
